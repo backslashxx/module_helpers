@@ -1,0 +1,6 @@
+id=shamiko_helper
+name=shamiko_helper
+version=v1
+versionCode=100
+author=xx
+description=drops action.sh onto shamiko. if you see this, the module failed to clean itself
