@@ -1,6 +1,6 @@
 id=helper_dropper
 name=helper_dropper
-version=v1
-versionCode=100
+version=v1.1
+versionCode=101
 author=xx
 description=drops action.sh onto shamiko/trickystore. if you see this, the module failed to clean itself. please uninstall
